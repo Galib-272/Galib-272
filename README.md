@@ -142,7 +142,7 @@ I enjoy learning fast, collaborating, and turning ideas into reliable features.
   <a href="https://www.linkedin.com/in/galib272/" target="_blank"> 
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn"/> 
   </a> &nbsp;&nbsp; 
-  <a href="tel:+8801920376677" target="_blank"> 
-    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="Phone/WhatsApp"/> 
+  <a href="https://www.facebook.com/galib272/" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" alt="Facebook"/> 
   </a> 
 </div>
