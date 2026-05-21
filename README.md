@@ -1,4 +1,37 @@
-<img width="1280" height="720" alt="modern (2)" src="https://github.com/user-attachments/assets/e376947c-584b-4f17-8d90-8d3d96e91dc9" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md.%20Shehab%20Al%20Rabby&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%26+Framer+Motion;UI%2FUX+Focused+Engineering;Turning+Complexity+into+Simplicity" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/shehabalrabby" target="_blank">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://shehabsportfolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:shehabrabby764@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.facebook.com/share/1WWyXMPw91/" target="_blank">
+    <img src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-using-freelancer-pack-people-illustrations-3304192.gif" width="380" alt="Developer Coding Workspace" />
+  </a>
+
+  <br />
+
+  <samp>
+    <h3>👋 Welcome to my digital workspace!</h3>
+    <b>Building production-ready full stack web solutions with clean code mechanics.</b>
+    <br />
+    Let's collaborate! Follow my updates or reach out on <a href="https://www.facebook.com/share/1WWyXMPw91/" target="_blank">Facebook</a>.
+  </samp>
+</div>
 
 # 👋 Hi, I'm **Syed Ahmad Galib**
 
