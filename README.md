@@ -30,13 +30,6 @@
     Let's collaborate! Feel free to connect or reach out.
   </samp>
 </div>
-
-  <samp>
-    <h3>👋 Welcome to my digital workspace!</h3>
-    <b>Building production-ready full stack web solutions with clean code mechanics.</b>
-    <br />
-    Let's collaborate! Follow my updates or reach out on <a href="https://www.facebook.com/share/1WWyXMPw91/" target="_blank">Facebook</a>.
-  </samp>
 </div>
 
 # 👋 Hi, I'm **Syed Ahmad Galib**
