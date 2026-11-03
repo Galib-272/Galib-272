@@ -48,11 +48,7 @@ I build **production-ready, responsive web applications** with React, Next.js, N
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Galib-272&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-        width="100%"
-        alt="GitHub Stats"
-      />
+      <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -88,8 +84,12 @@ I build **production-ready, responsive web applications** with React, Next.js, N
 ## 📊 GitHub Activity
 
 <div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Galib-272&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galib-272&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Repos per Language" />
 </div>
 
 ---
@@ -103,18 +103,6 @@ I build **production-ready, responsive web applications** with React, Next.js, N
 ---
 
 ## 🏗️ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Galib-272/Savoria_client_side" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galib-272&repo=Savoria_client_side&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Savoria" />
-  </a>
-  <a href="https://github.com/Galib-272/Assignment-10_client_side" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galib-272&repo=Assignment-10_client_side&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="TicketBari" />
-  </a>
-  <a href="https://github.com/Galib-272/Assignment-9-client-side" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galib-272&repo=Assignment-9-client-side&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="IdeaVault" />
-  </a>
-</div>
 
 <table align="center" border="0">
   <tr>
